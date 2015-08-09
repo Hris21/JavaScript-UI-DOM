@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jQuery Plugins", "jQuery Plugins\jQuery Plugins.csproj", "{02953A4E-D1CD-41FC-AC63-EF5F171A8F09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{AC55784E-DD52-4F28-B55E-99B766816620}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02953A4E-D1CD-41FC-AC63-EF5F171A8F09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02953A4E-D1CD-41FC-AC63-EF5F171A8F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02953A4E-D1CD-41FC-AC63-EF5F171A8F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02953A4E-D1CD-41FC-AC63-EF5F171A8F09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC55784E-DD52-4F28-B55E-99B766816620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC55784E-DD52-4F28-B55E-99B766816620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC55784E-DD52-4F28-B55E-99B766816620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC55784E-DD52-4F28-B55E-99B766816620}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
